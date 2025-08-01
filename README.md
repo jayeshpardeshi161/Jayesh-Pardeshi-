@@ -10,35 +10,35 @@ This repository contains a collection of my end-to-end projects that reflect my 
 
 ## 🚀 Projects
 
-### 1. 📈 Amazon Sales Dashboard – Power BI   🔗 View Project
+### 1. 📈 Amazon Sales Dashboard – Power BI   🔗  [https://github.com/jayeshpardeshi161/Amazon-Sales-Analysis]
 - Built a dynamic sales dashboard with DAX, slicers, and data modeling
 - Reduced manual reporting errors by 60%
 - Features: KPI cards, category trends, and profit analysis
 
-### 2. 🔌 Electric Vehicle Adoption Analysis – Power BI 🔗 View Project
+### 2. 🔌 Electric Vehicle Adoption Analysis – Power BI 🔗 [https://github.com/jayeshpardeshi161/Electric-Vehicle-Analysis]
 - Analyzed 133K+ EV records to evaluate CAFV eligibility and market trends
 - Achieved 99% data accuracy through thorough cleaning and model optimization
 
-### 3. 👥 HR Attrition Dashboard – Tableau 
+### 3. 👥 HR Attrition Dashboard – Tableau 🔗[https://github.com/jayeshpardeshi161/HR-Analyst-Dashboard-]
 - Created an interactive HR dashboard using data from 1,470 employees
 - Tracked attrition by department, age group, and tenure
 - Real-time KPIs for retention insights
 
-### 4. 🚗 UK Road Accident Dashboard – Tableau 
+### 4. 🚗 UK Road Accident Dashboard – Tableau 🔗[https://github.com/jayeshpardeshi161/Road-Accident-Dashboard]
 - Visualized 66K+ accident records with geospatial heatmaps and filters
 - Enabled interactive analysis by location, weather, and severity
 
-### 5. 🧠 Brain Tumor Detection – CNN (Python, TensorFlow)
+### 5. 🧠 Brain Tumor Detection – CNN (Python, TensorFlow) 🔗[https://github.com/jayeshpardeshi161/Deep-Learning-Project]
 - Developed a Convolutional Neural Network (CNN) model using MRI data
 - Achieved 96.93% classification accuracy
 - Techniques used: data augmentation, dropout, and class balancing
 
-### 6. 💳 Credit Card Fraud Detection – ML + Streamlit
+### 6. 💳 Credit Card Fraud Detection – ML + Streamlit 🔗[https://github.com/jayeshpardeshi161/Machine-Learning-Project]
 - Built an ML pipeline using SMOTE and Random Forest
 - Achieved 99.68% accuracy in detecting fraudulent transactions
 - Deployed the model as an interactive web app with Streamlit
 
-### 7. 📊 Sales Forecasting & Marketing Analytics – SQL + Python
+### 7. 📊 Sales Forecasting & Marketing Analytics – SQL + Python 🔗[https://github.com/jayeshpardeshi161/Marketing-Analytics--SQL-and-Python]
 - Built a full-stack pipeline for sales forecasting with 92% accuracy
 - Performed segmentation using clustering and EDA
 - Tools: SQL (for ETL), Pandas, Scikit-learn, Matplotlib
