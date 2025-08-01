@@ -10,21 +10,21 @@ This repository contains a collection of my end-to-end projects that reflect my 
 
 ## 🚀 Projects
 
-### 1. 📈 Amazon Sales Dashboard – Power BI
+### 1. 📈 Amazon Sales Dashboard – Power BI   🔗 View Project
 - Built a dynamic sales dashboard with DAX, slicers, and data modeling
 - Reduced manual reporting errors by 60%
 - Features: KPI cards, category trends, and profit analysis
 
-### 2. 🔌 Electric Vehicle Adoption Analysis – Power BI
+### 2. 🔌 Electric Vehicle Adoption Analysis – Power BI 🔗 View Project
 - Analyzed 133K+ EV records to evaluate CAFV eligibility and market trends
 - Achieved 99% data accuracy through thorough cleaning and model optimization
 
-### 3. 👥 HR Attrition Dashboard – Tableau
+### 3. 👥 HR Attrition Dashboard – Tableau 
 - Created an interactive HR dashboard using data from 1,470 employees
 - Tracked attrition by department, age group, and tenure
 - Real-time KPIs for retention insights
 
-### 4. 🚗 UK Road Accident Dashboard – Tableau
+### 4. 🚗 UK Road Accident Dashboard – Tableau 
 - Visualized 66K+ accident records with geospatial heatmaps and filters
 - Enabled interactive analysis by location, weather, and severity
 
