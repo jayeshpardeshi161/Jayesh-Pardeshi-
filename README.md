@@ -88,9 +88,9 @@ Currently seeking roles as a **Data Analyst** to gain industry experience and gr
 
 ## 📫 Connect with Me
 
-- **Email:** [jayeshpardeshi161@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/jayesh-pardeshi-645247378]
-
+- **Email:** jayeshpardeshi161@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/jayesh-pardeshi-645247378
+- **Portfolio:** https://jayeshpardeshi161.github.io/
 
 Thank you for visiting my GitHub portfolio!
 
