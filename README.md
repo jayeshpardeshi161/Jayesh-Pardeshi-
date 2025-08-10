@@ -2,7 +2,7 @@
 
 # 📊 Data Analytics & Data Science Portfolio
 
-Hi, I'm a former 3D Animation professional with 18+ years of experience in global studios like DreamWorks, Disney, and Universal Pictures. Now transitioning into the world of Data Analytics and Data Science, I've built a portfolio of real-world, self-initiated projects using tools like Power BI, Tableau, SQL, Python, and Machine Learning.
+Hi, I'm a former 3D Animation professional with 16+ years of experience in global studios like DreamWorks, Disney, and Universal Pictures. Now transitioning into the world of Data Analytics and Data Science, I've built a portfolio of real-world, self-initiated projects using tools like Power BI, Tableau, SQL, Python, and Machine Learning.
 
 This repository contains a collection of my end-to-end projects that reflect my hands-on learning, creativity, and problem-solving approach using data.
 
